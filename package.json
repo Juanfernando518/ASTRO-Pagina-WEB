@@ -1,0 +1,27 @@
+{
+  "name": "astro-pagina-web",
+  "version": "1.0.0",
+  "description": "Practica 2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanfernando518/ASTRO-Pagina-WEB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanfernando518/ASTRO-Pagina-WEB/issues"
+  },
+  "homepage": "https://github.com/Juanfernando518/ASTRO-Pagina-WEB#readme",
+  "devDependencies": {
+    "astro": "^5.15.4",
+    "gh-pages": "^5.0.0"
+  }
+}
