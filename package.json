@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Juanfernando518/ASTRO-Pagina-WEB/issues"
   },
-  "homepage": "https://github.com/Juanfernando518/ASTRO-Pagina-WEB#readme",
+  "homepage": "https://juanfernando518.github.io/ASTRO-Pagina-WEB/",
   "devDependencies": {
     "astro": "^5.15.4",
     "gh-pages": "^5.0.0"
